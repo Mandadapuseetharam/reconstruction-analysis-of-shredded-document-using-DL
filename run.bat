@@ -1,0 +1,2 @@
+python DocumentReconstruct.py
+pause
